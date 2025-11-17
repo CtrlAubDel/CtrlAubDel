@@ -17,6 +17,12 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 <a href="https://www.CtrlAubDel.com/">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CtrlAubDel&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=ffffff&icon_color=ffffff&bg_color=0,7F4AE2,5D5FEF,3E8DF7,5BE4F8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlAubDel&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,7F4AE2,5D5FEF,3E8DF7,5BE4F8" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=CtrlAubDel&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=0,7F4AE2,5D5FEF,3E8DF7,5BE4F8"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlAubDel&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,7F4AE2,5D5FEF,3E8DF7,5BE4F8"
+  />
 </a>
