@@ -1,6 +1,6 @@
 ## Tubes Cursor (WebGL, WebGPU)
 
-[![Aubrey Corcoran](demo.gif)](https://codepen.io/CtrlAubDel/pen/WbwpLRB)
+[![Aubrey Corcoran](demo.gif)](https://codepen.io/Aubrey-Corcoran/pen/KwzmMxr)
 
 ### Languages
  
