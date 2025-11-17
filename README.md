@@ -1,10 +1,6 @@
 ## Tubes Cursor (WebGL, WebGPU)
 
-<p align="center">
-  <a href="https://codepen.io/CtrlAubDel/pen/WbwpLRB">
-    <img src="demo.gif" alt="Aubrey Corcoran" style="width: 100%;">
-  </a>
-</p>
+[![Aubrey Corcoran](demo.gif)](https://codepen.io/CtrlAubDel/pen/WbwpLRB)
 
 ### Languages
  
