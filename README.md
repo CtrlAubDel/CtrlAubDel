@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://codepen.io/CtrlAubDel/pen/WbwpLRB">
-    <img src="https://codepen.io/CtrlAubDel/pen/WbwpLRB/image/large.png" alt="Tubes Cursor Preview">
+    <img src="demo.gif" alt="Tubes Cursor Demo">
   </a>
 </p>
 
