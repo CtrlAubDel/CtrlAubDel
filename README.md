@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://codepen.io/CtrlAubDel/pen/WbwpLRB">
-    <img src="demo.gif" alt="Tubes Cursor Demo">
+    <img src="demo.gif" alt="Tubes Cursor Demo" style="max-width: 600px; width: 100%; border-radius: 6px;">
   </a>
 </p>
 
