@@ -34,13 +34,13 @@
   <tr>
     <td width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=CtrlAubDel&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=0,7F4AE2,5D5FEF,3E8DF7,5BE4F8"
+        src="https://github-readme-stats.vercel.app/api?username=CtrlAubDel&show_icons=true&hide_title=true&hide_border=true&text_color=ffffff&icon_color=ffffff&bg_color=0,7F4AE2,5D5FEF,3E8DF7,5BE4F8&v=2"
         width="100%"
       />
     </td>
     <td width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlAubDel&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,7F4AE2,5D5FEF,3E8DF7,5BE4F8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CtrlAubDel&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,7F4AE2,5D5FEF,3E8DF7,5BE4F8&v=2"
         width="100%"
       />
     </td>
